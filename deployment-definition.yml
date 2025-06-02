@@ -22,7 +22,7 @@ selector:
     type: fornt-end
 
 
-kubectl apply -f deployment-defination.yml
+kubectl apply -f deployment-definition.yml
 
 kubectl get deployments
 
